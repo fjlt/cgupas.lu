@@ -1,0 +1,23 @@
+{
+    "id": "dailymotion",
+    "name": "Dailymotion",
+    "type": "service",
+    "urls": ["dailymotion.com"],
+    "fulltos": {
+        "privacy": {
+            "name": "",
+            "url": ""
+        },
+        "terms": {
+            "name": "Conditions d’utilisation",
+            "url": "http://www.dailymotion.com/legal/terms"
+        }
+    },
+    "tosdr": {
+        "rated": false
+    },
+    "keywords": ["video", "streaming", "vidéo"],
+    "related": ["youtube"],
+    "dataexport": false,
+    "freesoftware": false
+}
