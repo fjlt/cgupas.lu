@@ -1,0 +1,18 @@
+{
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "viadchange1",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "viadeo",
+  "sources": "terms",
+  "title": "Modifications à tout moment des CGU",
+  "topics": ["changes-notice"],
+  "tosdr": {
+    "binding": true,
+    "point": "blocker",
+    "score": 70,
+    "tldr": "10. Les présentes Conditions d'Utilisation pourront être modifiées par APVO, à tout moment et sans préavis. Le Membre est donc invité à consulter régulièrement leur dernière version mise à jour"
+  }
+}

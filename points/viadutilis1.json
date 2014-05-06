@@ -1,0 +1,18 @@
+{
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "viadutilis1",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "viadeo",
+  "sources": "terms",
+  "title": "Licence d’utilisation à titre personnel",
+  "topics": ["governance"],
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 20,
+    "tldr": "5.1. Licence d'utilisation du Site et du Service<br />APVO accorde au Membre une licence non exclusive, personnelle et non transférable l'autorisant à utiliser le site et le Service, ainsi que les données qu'ils contiennent, pour son usage professionnel et à titre strictement personnel, conformément aux présentes Conditions d'Utilisation et, en particulier, conformément à la finalité du Site et du Service"
+  }
+}

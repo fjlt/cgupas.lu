@@ -1,0 +1,18 @@
+{
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "viadusa1",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "viadeo",
+  "sources": "privacy",
+  "title": "Utilisation des données aux États-Unis",
+  "topics": ["personal-data","jurisdiction-law"],
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 80,
+    "tldr": "Lorsque vous utilisez l’un de nos services, vous acceptez expressément que vos informations de profil soient collectées, transférées, manipulées, stockées, divulguées ou utilisées de toute autre manière, tel que décrit dans la présente politique de confidentialité. Quel que soit votre pays de résidence ou le pays à partir duquel vous nous transmettez vos informations, vos données personnelles sont susceptibles d’être utilisées par APVO aux Etats-Unis et dans tout autre pays où nos sociétés affiliées et nous-mêmes exerçons nos activités."
+  }
+}
