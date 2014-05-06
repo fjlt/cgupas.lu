@@ -1,0 +1,39 @@
+"Service","Titre","TL;DR","Sujet","Good/bad/neutral/blocker","Source (Titre : URL)","Score : 0 à 100 (pondération)"
+"Dropbox","Droit californien applicable, sous réserve des règles de conflit de lois","Pas de clause attributive de juridiction mais application du droit californien sous reserve des règles de conflit de lois.","Juridiction compétente","neutral","https://www.dropbox.com/privacy#terms",50
+"Dropbox","20$ de clause limitative de responsabilité","Clause limitative de responsabilité (20 USD) sous reserve qu'elle soit accepté par le droit national de l'utilisateur.","Clauses limitatives de responsabilité","bad","https://www.dropbox.com/privacy#terms",60
+"Dropbox",,,"Poursuites possibles",,"https://www.dropbox.com/privacy#terms",
+"Dropbox","aucune communication, aucun droit à Dropbox","Dropobox ne revendique aucun droit de propriété sur le contenu déposé 
+
+par l'utilisateur. Il ne communiquera le contenu privé à personne, pas 
+
+même à une autorité d'exécution de la loi.","Relations avec les tiers","good","https://www.dropbox.com/privacy#terms",80
+"Dropbox",,,"Droit accordés aux utilisateurs (licences)",,"https://www.dropbox.com/privacy#terms",
+"Dropbox","arrêt à la demande","L'utilisateur peut arrêter d’utiliser nos Services à tout moment. Dropbox 
+
+se réserve le droit de suspendre ou de mettre fin aux Services à tout 
+
+moment, avec ou sans motif et avec ou sans préavis. Par exemple, Dropbox peut suspendre ou mettre fin à votre utilisation si vous ne vous 
+
+conformez pas aux présentes Conditions, ou si l'utilisateur utilise les Services
+
+ d’une manière susceptible d’engager la responsabilité juridique de Dropbox ou 
+
+de perturber l’utilisation des Services pour autrui. Si Dropbox suspend
+
+ou met fin à votre utilisation, il essaiera de le faire 
+
+savoir à l’avance et les aidera à récupérer les données, mais la
+
+ suspension peut être immédiate dans certaines circonstances (par 
+
+exemple en cas de violation répétée ou flagrante des présentes 
+
+Conditions, sur ordre d’un tribunal ou en raison d’un danger pour les 
+
+autres utilisateurs).","Conditions de résiliation","good","https://www.dropbox.com/privacy#terms",60
+"Dropbox","Amazon stocker","Le stockage et délégué à la société Amazon.","Stockage des données (modalités et localisation)","neutral","https://www.dropbox.com/privacy#terms",20
+"Dropbox","Utilisation de cookies","Cookies permanents et cookies d'ouverture de session.","Utilisation des cookies","neutral","https://www.dropbox.com/privacy#terms",20
+"Dropbox","Communication des principaux changements de CGU","Les CGU les plus récentes sont toujours en ligne. Les modifications conséquentes (aux yeux de Dropbox) font l'objet d'une information directe de l'utilisateur. Les autres modifications ne font pas l'objet d'information directe. Par ailleurs, continuer à utiliser le service après une modification des CGU revient à accepter les nouvelles CGU.","Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","good","https://www.dropbox.com/privacy#terms",30
+"Dropbox","Bonne lisibilité","Bonne lisibilité.","Lisibilité et intelligibilité des CGU","good","https://www.dropbox.com/privacy#terms",30
+"Dropbox","La responsabilité des utilisateurs à utiliser les contenus de manière responsable","Engagement à utiliser le contenu de façon responsable et notamment à respecter les droits de propriété intellectuelle des tiers.","Engagements de la part des utilisateurs","good","https://www.dropbox.com/privacy#terms",30
+"Dropbox",,,"Autres informations",,"https://www.dropbox.com/privacy#terms",

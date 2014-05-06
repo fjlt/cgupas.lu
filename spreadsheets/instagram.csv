@@ -1,0 +1,33 @@
+"Service","Titre","TL;DR","Sujet","Good/bad/neutral/blocker","Source (Titre : URL)","Score : 0 à 100 (pondération)"
+"Instagram","Juridiction californienne coûte que coûte","1. Les conditions d'utilisation sont régies et interprétées conformément aux lois de l'Etat de Californie 
+
+2. Elles ne donnent pas effet aux principes de conflit de loi et de conflit de juridiction, et se dégagent de l'autorité des convention des Nations Unies relatives au commerce international des marchandises - si jamais elles se révélaient applicables 
+
+3. Si une disposition devait être jugée illicite, elle sera considérée comme détachable de l'ensemble des conditions","Juridiction compétente","bad","http://instagram.com/about/legal/terms/",50
+"Instagram","100$ de clause limitative de responsabilité","1. Clause limitative de responsabilité. En aucun cas, l'indemnité due par Instagram ne pourra dépasser 100 dollars","Clauses limitatives de responsabilité","bad","http://instagram.com/about/legal/terms/",50
+"Instagram","supra-protection d'instragram au détriment des utilisateurs","1. L'action en justice est considérée comme prescrite à compter d'un an après le fait générateur du litige.
+
+2. L'utilisateur s'oblige à recourir au tribunal arbitral avant d'engager une procédure devant un tribunal d'Etat.
+
+3. L'utilisateur renonce au droit de class-action.","Poursuites possibles","blocker","http://instagram.com/about/legal/terms/",80
+"Instagram",,,"Relations avec les tiers",,"http://instagram.com/about/legal/terms/",
+"Instagram","licence non-exclusive","1. Licence non-exclusive","Droit accordés aux utilisateurs (licences)","bad","http://instagram.com/about/legal/terms/",90
+"Instagram","tous les matériaux en ligne peuvent être conservés par instagram","1. Les matériaux mis en ligne peuvent subsister à la fermeture du compte, que celle-ci soit volontaire ou imposée.
+
+2. Tout contenu placé sur le site ou retiré par les services de gestion peut continuer à être stocké, même sans limitation.","Conditions de résiliation","blocker","http://instagram.com/about/legal/terms/",90
+"Instagram",,,"Stockage des données (modalités et localisation)",,"http://instagram.com/about/legal/terms/",
+"Instagram",,,"Utilisation des cookies",,"http://instagram.com/about/legal/terms/",
+"Instagram","Faible communication des CGU aux changements rétroactifs","1. La modification des CGU n'est pas soumise à l'approbation de l'utilisateur
+
+2. Il est prévu qu'en cas de modification importante, l'utilisateur en soit informé par un message apparaissant sur la page d'accueil du site. Cette notification n'est pas une obligation.
+
+3. L'utilisation du service après la date de mise à jour des conditions vaut acceptation.
+
+4. Les nouvelles CGU sont rétroactives : elles s'appliquent aux litiges nés antérieurement à leur publication.
+
+5. La modification des CGU ""for legal or administrative reasons"" n'est soumise à aucune procédure de publication et de notification à l'utilisateur","Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","neutral","http://instagram.com/about/legal/terms/",30
+"Instagram","pas de CGU en français","1. Les CGU ne sont pas disponibles en français
+
+2. Elles sont assez lisibles en anglais. Il n'y a aucun renvoi. Néanmoins, certains passages - notamment celui sur la modification des CGU - sont confus.","Lisibilité et intelligibilité des CGU","bad","http://instagram.com/about/legal/terms/",50
+"Instagram",,,"Engagements de la part des utilisateurs",,"http://instagram.com/about/legal/terms/",
+"Instagram",,,"Autres informations",,"http://instagram.com/about/legal/terms/",

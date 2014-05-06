@@ -1,0 +1,21 @@
+"Service","Titre","TL;DR","Sujet","Good/bad/neutral/blocker","Source (Titre : URL)","Score : 0 à 100 (pondération)"
+"Google","La juridiction californienne compétente","les éventuels litiges liés aux présentes Conditions d’Utilisation seront régis par les lois des États à l’exclusion des règles de conflit de lois de cet État.Si la justice de votre pays ne vous autorise pas à vous pourvoir devant les tribunaux du comté de Santa Clara, Californie, États-Unis, les litiges relevant des présentes seront portés devant les tribunaux compétents de votre lieu de résidence.","Juridiction compétente","bad","https://www.google.fr/intl/fr/policies/terms/regional.html",50
+"Google",,,"Clauses limitatives de responsabilité",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google",,,"Poursuites possibles",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google","Importante collection de données (IP) et communication relative","-        Collection de données directement par l’utilisateur et indirectement par son utilisation (ex : site web utilisant leurs services publicitaires)
+o        Enregistrement de l’adresse IP, les requêtes de recherche…
+        Pour choix du langage proposé et publicité ciblées
+
+-        Communiquent les données personnelles à des entreprises, des organisations ou des personnes tierces que dans les circonstances suivantes :
+o        Demande de consentement
+o        Avec des administrateurs de domaine
+o        Pour des besoins de traitement externe
+o        Pour des raisons juridiques","Relations avec les tiers","blocker","https://www.google.fr/intl/fr/policies/terms/regional.html",90
+"Google",,,"Droit accordés aux utilisateurs (licences)",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google",,,"Conditions de résiliation",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google",,,"Stockage des données (modalités et localisation)",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google",,,"Utilisation des cookies",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google","Pas de communication","--        Pas de communication des changements des CGU autre part que sur leur page (seul l’arrêt d’utilisation signifie refus)","Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","bad","https://www.google.fr/intl/fr/policies/terms/regional.html",70
+"Google","Moyenne",,"Lisibilité et intelligibilité des CGU","neutral","https://www.google.fr/intl/fr/policies/terms/regional.html",20
+"Google",,,"Engagements de la part des utilisateurs",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google",,,"Autres informations",,,
