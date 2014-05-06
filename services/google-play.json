@@ -1,0 +1,24 @@
+{
+    "id": "google-play",
+    "name": "Google Play",
+    "type": "service",
+    "urls": ["play.google.com"],
+    "fulltos": {
+        "privacy": {
+            "service": "google"
+        },
+        "terms": {
+            "name": "",
+            "url": ""
+        }
+    },
+    "tosdr": {
+        "rated": false
+    },
+    "keywords": ["music", "video", "streaming", "shop", "e-book"],
+    "related": ["soundcloud", "fnac"],
+    "parent": ["google"],
+    "dataexport": false,
+    "freesoftware": false
+}
+

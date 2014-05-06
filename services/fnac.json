@@ -1,0 +1,24 @@
+{
+    "id": "fnac",
+    "name": "Fnac",
+    "type": "service",
+    "urls": ["fnac.com"],
+    "fulltos": {
+        "privacy": {
+            "name": "",
+            "url": ""
+        },
+        "terms": {
+            "name": "",
+            "url": ""
+        }
+    },
+    "tosdr": {
+        "rated": false
+    },
+    "keywords": ["commmerce", "shop", "e-book"],
+    "related": ["google-play"],
+    "dataexport": false,
+    "freesoftware": false
+}
+

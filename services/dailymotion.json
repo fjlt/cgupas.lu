@@ -1,12 +1,13 @@
 {
+    "alexa": 0,
     "id": "dailymotion",
     "name": "Dailymotion",
     "type": "service",
     "urls": ["dailymotion.com"],
     "fulltos": {
         "privacy": {
-            "name": "",
-            "url": ""
+            "name": "Données personnelles",
+            "url": "http://www.dailymotion.com/legal/privacy"
         },
         "terms": {
             "name": "Conditions d’utilisation",

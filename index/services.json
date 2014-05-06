@@ -1,8 +1,19 @@
 {
-  "linkedin": {
+  "dailymotion": {
     "class": false,
     "links": {},
     "points": [
+        "dailyirresp1",
+        "dailysanct1",
+        "dailyanon1",
+        "dailylicense1",
+        "dailyjuri1"
+    ]
+  },
+  "linkedin": {
+    "class": false,
+    "links": {},
+    "points": [ 
       "linkjuri8",
       "linkresp1",
       "linkliens1",
