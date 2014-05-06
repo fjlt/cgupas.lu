@@ -1,0 +1,18 @@
+{
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "viadcommdata1",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "viadeo",
+  "sources": "terms",
+  "title": "Pas de communication des données non publiques",
+  "topics": ["personal-data", "third"],
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 50,
+    "tldr": "4. Confidentialité et données à caractère personnel<br />APVO ne communique pas les données personnelles des Membres à des tiers, sous réserve de la communication des données présentes sur le Profil public de chaque Membre […] et des cas où la communication de telles données est imposée par la règlementation en vigueur, notamment à la requête de l'autorité judiciaire"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "linkire1",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "linkedin",
+  "sources": "privacy",
+  "title": "Traitement des données européennes en Irlande",
+  "topics": "jurisdiction-law",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 40,
+    "tldr": "Article 1.1 de la Politique de Confidentialité<br />Si vous accédez au site depuis les États-Unis, alors vos données personnelles sont fournies à ou rassemblées par LinkedIn, sous le contrôle de LinkedIn Corporation, 2029 Stierlin Court, Mountain View, Californie 94043, USA. Si vous accédez au site en dehors des États-Unis, alors vos données personnelles sont fournies à ou rassemblées par LinkedIn, sous le contrôle de LinkedIn Ireland, Gardner House, Wilton Place, Wilton Plaza, Dublin 2, Irlande."
+  }
+}

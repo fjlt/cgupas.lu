@@ -1,0 +1,18 @@
+{
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "viadresp1",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "viadeo",
+  "sources": "terms",
+  "title": "Viadeo s'en remet à l'estimation du juge",
+  "topics": "liability",
+  "tosdr": {
+    "binding": true,
+    "point": "good",
+    "score": 40,
+    "tldr": "7.2. Responsabilité d'APVO<br />Dans toute la mesure permise par le loi applicable et dans la mesure où APVO serait jugée d'un dommage non-prévu ci-dessus, la responsabilité d'APVO sera limitée aux dommages certains, réels et établis.<br />  Exonération de responsabilité sur le contenu fourni par les Membres et les dommages qui pourraient être causés par l'utilisation de ce contenu et en cas d'interruption d'accès au site du fait d'une cause extérieure ou d'opérations de maintenance"
+  }
+}

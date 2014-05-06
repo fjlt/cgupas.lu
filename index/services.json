@@ -3,7 +3,27 @@
     "class": false,
     "links": {},
     "points": [
-      "linkjuri8"
+      "linkjuri8",
+      "linkresp1",
+      "linkliens1",
+      "linkdroits1",
+      "linkcache1",
+      "linkire1",
+      "linkcookies1",
+      "linkchange1",
+      "linkeffort1",
+      "linkengage1",
+      "linkindemn1"
+    ]
+  },
+  "viadeo": {
+    "class": false,
+    "links": {},
+    "points": [
+      "viadjuri1", 
+      "viadresp1",
+      "viadcommdata1",
+      "viadjusti1"
     ]
   }
 }

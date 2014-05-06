@@ -1,0 +1,18 @@
+{
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "linkengage1",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "linkedin",
+  "source": "terms",
+  "title": "Utiliser le site de manière professionnelle… et permettre à LinkedIn de se rémunérer grâce à la pub",
+  "topics": "governance",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 50,
+    "tldr": "Article 10 des CGU - A faire et à ne pas faire pour les Membres de LinkedIn<br />Notamment, il faut charger une photo de profil ressemblante, utiliser son nom réel, ne pas créer de profil utilisateur pour une personne morale, ne pas créer de lien profond (c'est-à-dire ne pas utiliser une url qui dirige vers une page autre que la page d'accueil), ne pas bloquer les publicités"
+  }
+}

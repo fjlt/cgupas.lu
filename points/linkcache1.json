@@ -1,0 +1,18 @@
+{
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "linkcache1",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "linkedin",
+  "sources": "privacy",
+  "title": "Menu de suppression caché dans la politique de confidentialité",
+  "topics": "leave",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 70,
+    "tldr": "Article 3.1 de la Politique de Confidentialité<br />Si vous fermez votre compte, vos données seront supprimées en principe sous 24 heures. En règle générale, nous effaçons les données des comptes clos et nous rendons anonymes tous les journaux et les autres données de sauvegarde dans un délai de 30 jours suivant la fermeture du compte, sous réserve des exceptions décrites ci-dessous.<br /><br />Article 3.2 de la Politique de Confidentialité <br />pour le respect des obligations légales ou des exigences réglementaires, pour le règlement de litiges entre Membres, dans un but de prévention de la fraude et de l'abus, ou pour faire appliquer cet accord<br /><br />Conservation de données anonymisées à des fins d'études statistiques et de tendances"
+  }
+}

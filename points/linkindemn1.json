@@ -1,0 +1,18 @@
+{
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "linkindemn1",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "linkedin",
+  "sources": "terms",
+  "title": "L'utilisateur doit indemniser LinkedIn en cas de préjudice causé par lui, sans limite.",
+  "topics": "indemnify",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 80,
+    "tldr": "«Article 2.5 des CGU -Indemnisation :<br />Vous nous indemnisez et vous nous garantissez contre tout préjudice, perte ou frais (y compris, mais sans s'y limiter, les honoraires raisonnables d'avocat) liés aux demandes, frais ou enquêtes de tiers résultant (1) de votre non-respect des dispositions de ce contrat […], (2) tout contenu fourni aux Services, et (3) toute activité dans laquelle vous vous engagez par le biais du site de LinkedIn<br /><br />Pour les plaintes d'un utilisateur, voir la Politique de Copyright»"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "linkliens1",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "linkedin",
+  "sources": "terms",
+  "title": "LinkedIn n'est pas responsable des liens vers d'autres sites.",
+  "topics": "third",
+  "tosdr": {
+    "binding": true,
+    "point": "neutral",
+    "score": 0,
+    "tldr": "Article 4.2 des CGU - Sites et développeurs tiers <br />LinkedIn peut comprendre ou produire des liens automatiques vers des sites internet de tiers et permet également aux développeurs tiers de créer des applications. Les sites tiers et les applications sont régis par des CGU qui leur sont propres, LinkedIn n'est pas responsable de leur fonctionnement."
+  }
+}

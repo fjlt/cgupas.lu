@@ -1,0 +1,18 @@
+{
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "viadjuri1",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "viadeo",
+  "sources": "terms",
+  "title": "Juridiction californienne",
+  "topics": "jurisdiction-law",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 60,
+    "tldr": "11. Droit applicable - attribution de juridiction<br />- la conclusion, l'interprétation et la validité des présentes Conditions d'Utilisation et du Contrat sont régies par le droit de l'Etat de Californie<br />- les juridictions du ressort du siège d'APVO seront seules compétentes pour connaître de tout litige relatif au Contrat"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "linkresp1",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "linkedin",
+  "sources": "terms",
+  "title": "Indemnisation limitée à 100$ ou cinq mois de paiement",
+  "topics": "liability",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 70,
+    "tldr": "Article 5 (exclusion de responsabilité) et 6 (limitation de responsabilité):  Il est signalé que suivant les lois nationales en vigueur, ces clauses pourront ne pas être opposables à l'utilisateur. « Dans toute la mesure permise par la loi en vigueur, LinkedIn exclut toute déclaration ou garantie implicite, y compris, de manière non limitative, toute garantie de qualité marchande, d'adaptabilité à un usage particulier, de propriété, d'exactitude des données et de non-violation des droits d'autrui »"
+  }
+}

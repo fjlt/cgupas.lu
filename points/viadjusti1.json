@@ -1,0 +1,18 @@
+{
+  "discussion": "https://groups.google.com/d/forum/cgu-pas-lu",
+  "id": "viadjusti1",
+  "meta": {
+    "author": "Estelle",
+    "license": "CC-BY-SA-4.0"
+  },
+  "services": "viadeo",
+  "sources": "terms",
+  "title": "(Meilleur titre svp?) Viadeo se fait justice elle-même",
+  "topics": "suspension",
+  "tosdr": {
+    "binding": true,
+    "point": "bad",
+    "score": 80,
+    "tldr": "6.2. Résiliation<br />en cas de violation manifeste de la règlementation applicable ou des obligations stipulées par le Membre à l'article 2 des présentes […] APVO pourra suspendre l'accès au contenu en cause et/ou supprimer le compte du Membre et résilier le Contrat, sans notification préalable"
+  }
+}
