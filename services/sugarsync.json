@@ -1,6 +1,6 @@
 {
     "id": "sugarsync",
-    "name": "Sygarsync",
+    "name": "Sugarsync",
     "type": "service",
         "urls": ["sugarsync.com"],
     "fulltos": {
