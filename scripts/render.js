@@ -11,7 +11,7 @@ function renderDataPoint(service, dataPoint, forPopup) {
     obj = JSON.parse(text);
   } catch (e) {
     console.log(e);
-    console.log('Could not load data for data point ' + dataPoint + ', sorry! Refreshing the page might sometimes help.');
+    console.log('donnée : ' + dataPoint + ' Il y a un problème, désolé! Rafraîchir la page peut aider parfois.');
     die();
     return;
   }
@@ -67,7 +67,7 @@ function getServiceObject(name) {
     obj = JSON.parse(text);
   } catch (e) {
     console.log(e);
-    console.log('Could not load data for ' + name + ', sorry! Refreshing the page might sometimes help.');
+    console.log('Problème avec ' + name + ', désolé! Rafraîchir la page peut aider parfois.');
     die();
   }
   if (obj) {
@@ -78,13 +78,13 @@ function getServiceObject(name) {
 }
 function getRatingText(className) {
   var ratingText = {
-    0:"We haven't sufficiently reviewed the terms yet. Please contribute to our group: <a href=\"get-involved.html\">Get involved</a>.",
-    "false":"We haven't sufficiently reviewed the terms yet. Please contribute to our group: <a href=\"get-involved.html\">Get involved</a>.",
-    "A":"The terms of service treat you fairly, respect your rights and follow the best practices.",
-    "B":"The terms of services are fair towards the user but they could be improved.",
-    "C":"The terms of service are okay but some issues need your consideration.",
-    "D":"The terms of service are very uneven or there are some important issues that need your attention.",
-    "E":"The terms of service raise very serious concerns."
+    0:"Nous n’avons pas suffisamment évalué toutes les clauses. Merci de <a href=\"get-involved.html\">contribuer au projet</a>.",
+    "false":"Nous n’avons pas suffisamment évalué toutes les clauses. Merci de <a href=\"get-involved.html\">contribuer au projet</a>.",
+    "A":"Les CGU du service sont justes, respectent vos droits et suivent les bonnes pratiques.",
+    "B":"Les CGU du service sont justes envers l’utilisateur mais pourraient être améliorées.",
+    "C":"Les CGU du service sont plutôt bonnes mais certains points méritent une considération particulière.",
+    "D":"Les CGU du service sont déséquilibrées ou il y a certains points importants qui nécessitent une attention particulière.",
+    "E":"Les CGU du service soulèvent des doutes sérieux."
   };
   return ratingText[className];
 }
@@ -101,9 +101,9 @@ function renderDetails(name, points, toslinks, obj) {
     obj.tosdr = {rated:false};
   }
   if (obj.tosdr.rated) {
-    rating = '<div id="' + name + '-rating" class="service-rating"><a title="Learn more about our classification" href="classification.html"><span class="label ' + obj.tosdr.rated + '">Class ' + obj.tosdr.rated + '</span></a></div></h3>';
+    rating = '<div id="' + name + '-rating" class="service-rating"><a title="En apprendre davantage sur la classification" href="classification.html"><span class="label ' + obj.tosdr.rated + '">Class ' + obj.tosdr.rated + '</span></a></div></h3>';
   } else {
-    rating = '<div id="' + name + '-rating" class="service-rating"><a title="Learn more about our classification" href="classification.html"><span class="label ' + obj.tosdr.rated + '">No Class Yet</span></a></div></h3>';
+    rating = '<div id="' + name + '-rating" class="service-rating"><a title="En apprendre davantage sur la classification" href="classification.html"><span class="label ' + obj.tosdr.rated + '">No Class Yet</span></a></div></h3>';
   }
   //we collect the data points into an array first, so that we can sort them by score (the score is the impact/importance of a data point):
   var renderables = [];
@@ -124,7 +124,7 @@ function renderDetails(name, points, toslinks, obj) {
   }
   //add link to have more details at the bottom:
   issues += '</ul>'
-    + '<a class="modal-link" data-service-name="' + name + '" href="#"><i class="icon  icon-th-list"></i> More details</a>'
+    + '<a class="modal-link" data-service-name="' + name + '" href="#"><i class="icon  icon-th-list"></i> Plus de détails</a>'
     // add link to read the full terms (removed)
     //    + (toslinks.terms ? '<br /><a href="' + toslinks.terms.url + '" target="_blank"><i class="icon  icon-list-alt"></i> Read the full terms</a>' : '')
     + '</section>';
@@ -178,10 +178,10 @@ function renderPopup(name, obj, points, links) {
   var headerHtml = '<div class="modal-header"><button data-dismiss="modal" class="close" type="button">×</button>'
     + '<img src="logo/' + name + '.png" alt="" class="pull-left favlogo" height="36" >'
     + '<h3>' + longName
-    + '<small class="service-url">Share review <input class="share-link" type="text" value="http://tosdr.org/#' + name + '" readonly /></small>'
+    + '<small class="service-url">Partager cette évaluation <input class="share-link" type="text" value="http://cgupas.lu/#' + name + '" readonly /></small>'
     + '</h3></div>\n';
   var classHtml = '<div class="tosdr-rating"><label class="label ' + verdict + '">'
-    + (verdict ? 'Class ' + verdict : 'No Class Yet') + '</label><p>' + ratingText + '</p></div>\n';
+    + (verdict ? 'Class ' + verdict : 'Non classé') + '</label><p>' + ratingText + '</p></div>\n';
   var renderables = [];
   //sort the data points by importance:
   for (var i in points) {
@@ -196,9 +196,9 @@ function renderPopup(name, obj, points, links) {
   }
   var bodyHtml = '<div class="modal-body">' + classHtml + '<section class="specificissues"> <ul class="tosdr-points">' + pointsHtml + '</ul></section>\n';
   if (isEmpty(links)) {
-    bodyHtml += '<section><a href="/get-involved.html" class="btn">Help us find the Terms »</a></section>\n';
+    bodyHtml += '<section><a href="/get-involved.html" class="btn">Aidez-nous à archiver leurs CGU »</a></section>\n';
   } else {
-    bodyHtml += '<section><h4>Read the Terms</h4><ul class="tosback2">\n';
+    bodyHtml += '<section><h4>Lire les CGU</h4><ul class="tosback2">\n';
     for (var i in links) {
       bodyHtml += '<li><a href="' + links[i].url + '">' + (links[i].name ? links[i].name : i) + '</a></li>\n';
     }
