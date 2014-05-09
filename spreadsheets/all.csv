@@ -1,0 +1,209 @@
+"Service","Titre","TL;DR","Sujet","Good/bad/neutral/blocker","Source (Titre : URL)","Score : 0 à 100 (pondération)"
+"Dropbox","Droit californien applicable, sous réserve des règles de conflit de lois","Pas de clause attributive de juridiction mais application du droit californien sous reserve des règles de conflit de lois.","Juridiction compétente","neutral","https://www.dropbox.com/privacy#terms",50
+"Dropbox","20$ de clause limitative de responsabilité","Clause limitative de responsabilité (20 USD) sous reserve qu'elle soit accepté par le droit national de l'utilisateur.","Clauses limitatives de responsabilité","bad","https://www.dropbox.com/privacy#terms",60
+"Dropbox",,,"Poursuites possibles",,"https://www.dropbox.com/privacy#terms",
+"Dropbox","aucune communication, aucun droit à Dropbox","Dropobox ne revendique aucun droit de propriété sur le contenu déposé 
+
+par l'utilisateur. Il ne communiquera le contenu privé à personne, pas 
+
+même à une autorité d'exécution de la loi.","Relations avec les tiers","good","https://www.dropbox.com/privacy#terms",80
+"Dropbox",,,"Droit accordés aux utilisateurs (licences)",,"https://www.dropbox.com/privacy#terms",
+"Dropbox","arrêt à la demande","L'utilisateur peut arrêter d’utiliser nos Services à tout moment. Dropbox 
+
+se réserve le droit de suspendre ou de mettre fin aux Services à tout 
+
+moment, avec ou sans motif et avec ou sans préavis. Par exemple, Dropbox peut suspendre ou mettre fin à votre utilisation si vous ne vous 
+
+conformez pas aux présentes Conditions, ou si l'utilisateur utilise les Services
+
+ d’une manière susceptible d’engager la responsabilité juridique de Dropbox ou 
+
+de perturber l’utilisation des Services pour autrui. Si Dropbox suspend
+
+ou met fin à votre utilisation, il essaiera de le faire 
+
+savoir à l’avance et les aidera à récupérer les données, mais la
+
+ suspension peut être immédiate dans certaines circonstances (par 
+
+exemple en cas de violation répétée ou flagrante des présentes 
+
+Conditions, sur ordre d’un tribunal ou en raison d’un danger pour les 
+
+autres utilisateurs).","Conditions de résiliation","good","https://www.dropbox.com/privacy#terms",60
+"Dropbox","Amazon stocker","Le stockage et délégué à la société Amazon.","Stockage des données (modalités et localisation)","neutral","https://www.dropbox.com/privacy#terms",20
+"Dropbox","Utilisation de cookies","Cookies permanents et cookies d'ouverture de session.","Utilisation des cookies","neutral","https://www.dropbox.com/privacy#terms",20
+"Dropbox","Communication des principaux changements de CGU","Les CGU les plus récentes sont toujours en ligne. Les modifications conséquentes (aux yeux de Dropbox) font l'objet d'une information directe de l'utilisateur. Les autres modifications ne font pas l'objet d'information directe. Par ailleurs, continuer à utiliser le service après une modification des CGU revient à accepter les nouvelles CGU.","Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","good","https://www.dropbox.com/privacy#terms",30
+"Dropbox","Bonne lisibilité","Bonne lisibilité.","Lisibilité et intelligibilité des CGU","good","https://www.dropbox.com/privacy#terms",30
+"Dropbox","La responsabilité des utilisateurs à utiliser les contenus de manière responsable","Engagement à utiliser le contenu de façon responsable et notamment à respecter les droits de propriété intellectuelle des tiers.","Engagements de la part des utilisateurs","good","https://www.dropbox.com/privacy#terms",30
+"Dropbox",,,"Autres informations",,"https://www.dropbox.com/privacy#terms",
+"Service","Titre","TL;DR","Sujet","Good/bad/neutral/blocker","Source (Titre : URL)","Score : 0 à 100 (pondération)"
+"Facebook","Juridiction californienne","Le droit de l’État de Californie est le droit appliqué à cette Déclaration, de même que toute action entre vous et nous, sans égard aux principes de conflit de lois. Vous acceptez de respecter la juridiction des tribunaux du comté de Santa Clara, en Californie, dans le cadre de telles actions. + Si vous résidez en Californie, vous renoncez à la clause §1542 du code civil de l'Etat de Californie","Juridiction compétente","bad","https://www.facebook.com/legal/terms",50
+"Facebook","100$ de clause limitative de responsabilité ou un an de paiement","-  ""L'agrégat total de notre reponsabilité envers vous dans le cadre de cette déclaration ou facebook ne pourra dépasser le montant payé par vous au cours des 12 derniers mois précédents ou $100 USD, le montant le plus élevé étant celui pris en compte","Clauses limitatives de responsabilité","neutral","https://www.facebook.com/legal/terms",50
+"Facebook","Rembourser facebook en cas de responsabilité personnelle","-        En cas de plainte à notre encontre suite à vos actions, à votre contenu ou à vos informations sur Facebook, vous indemniserez Facebook pour toute perte, responsabilité, réclamation, demande, dépenses et frais, y compris les honoraires raisonnables d’avocat, afférents à cette plainte","Poursuites possibles","neutral","https://www.facebook.com/legal/terms",50
+"Facebook","de la commercialisation des infos à la publicité ciblée","1/  Votre nom, vos photos de profil, votre sexe, vos photos de couverture, vos réseaux, votre nom d’utilisateur et votre identifiant sont traités comme toute autre information que vous choisissez de rendre publique
+2/ -        Nous utilisons les informations que nous recevons pour les services et les fonctions que nous vous fournissons, à vous et à d’autres utilisateurs, tels que vos amis, nos partenaires, les annonceurs qui achètent des publicités sur le site, et les développeurs qui conçoivent les jeux, les applications et les sites web que vous utilisez
+3/  L’utilisateur donne la permission, selon ses paramètres, d’utiliser nom et photo de profil en association à du contenu commercial (publicité ciblée)","Relations avec les tiers","blocker","https://www.facebook.com/legal/terms",100
+"Facebook","Une licence accordée… jusqu'à la supression du compte","1/  Vous restez toujours propriétaire des informations vous concernant que nous recevons, même si vous nous donnez l’autorisation de les utiliser. Votre confiance nous est précieuse, voici pourquoi nous ne communiquons pas les informations vous concernant que nous recevons à d’autres parties, sauf si : 
+o nous avons reçu votre autorisation ; 
+o nous vous avons prévenu, par exemple en vous en informant dans cette politique ; ou 
+o nous avons supprimé votre nom ou toute autre information personnelle permettant de vous identifier. 
+
+2/ -        Concernant les contenus protégés par la propriété intellectuelle : « vous nous accordez une licence non-exclusive, transférable, sous-licenciable, sans redevance et mondiale pour l’utilisation des contenus de propriété intellectuelle que vous publiez sur Facebook ou en relation avec Facebook »
+o        Prend fin lors de la suppression des contenus ou le compte
+        Peuvent subsister un temps sur les bases de données","Droit accordés aux utilisateurs (licences)","bad","https://www.facebook.com/legal/terms",70
+"Facebook","Possibilité de suppression, mais il faut la trouver","2/ -        En général, les informations associées à votre compte sont conservées jusqu’à la suppression de ce dernier. Pour certaines catégories de données, nous pouvons également vous informer de pratiques spécifiques de rétention des données.","Conditions de résiliation","bad","https://www.facebook.com/legal/terms",70
+"Facebook","Straight to the USA","-        Acceptation que les données soient envoyées et traitées aux USA.
+o        Précision : Aucune disposition de cet accord ne peut nous empêcher de respecter la loi (logique !)","Stockage des données (modalités et localisation)","bad","https://www.facebook.com/legal/terms",60
+"Facebook",,,"Utilisation des cookies",,"https://www.facebook.com/legal/terms",
+"Facebook","Possibilité de commenter les changements et information continue","1/  possibilité de faire des commentaires sur les modifications apportées à la présente Déclaration dans un délai de sept (7) jours (par exemple en publiant l’objet de la modification sur la Page Facebook Site Governance).
+2/  Information de changement des CGU sur  la Facebook Site Governance Page
+3/  Acceptation tacite du changement des CGU par la poursuite de l’utilisation","Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","good","https://www.facebook.com/legal/terms",50
+"Facebook","lisible","Lisibilité correcte (traduction de l'anglais), des exemples donnés mais aucune certitude quant à leur pertinence (difficulté à voir, à partir des CGU, dans quelle mesure facebook utilise les données utilisateurs à fins commerciales)","Lisibilité et intelligibilité des CGU","good","https://www.facebook.com/legal/terms",20
+"Facebook","Respect des bonnes mœurs","-        Engagements de la part des utilisateurs dans la façon d’utiliser et les contenus publiés (ni pornographie, ni racisme etc...)
+(Pas de pseudonymes + Pas d’identification des personnes qui ne sont pas sur FB sans leur accord)","Engagements de la part des utilisateurs","good","https://www.facebook.com/legal/terms",40
+"Facebook","Des infos stockées à notre insu","1/ Lorsque vous publiez des informations telles que des photos ou des vidéos sur Facebook, nous pouvons recevoir des données supplémentaires (ou métadonnées), comme l’heure, la date et l’endroit où vous avez pris la photo ou la vidéo. […] Nous recevons les données de l’ordinateur, du téléphone portable ou de tout autre appareil que vous pouvez utiliser pour accéder à Facebook, y compris lorsque plusieurs utilisateurs se connectent à partir du même appareil. Cela peut comprendre votre adresse IP et d’autres informations comme votre fournisseur d’accès à internet, le lieu, le type de navigateur que vous utilisez ou les pages que vous consultez. Par exemple, nous pouvons obtenir vos coordonnées GPS ou d’autres informations de géolocalisation pour vous indiquer si certains de vos amis sont à proximité","Autres informations","bad","https://www.facebook.com/legal/terms",
+"Service","Titre","TL;DR","Sujet","Good/bad/neutral/blocker","Source (Titre : URL)","Score : 0 à 100 (pondération)"
+"Fnac","Droit français","Compétence des tribunaux français. ","Juridiction compétente","Good","http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",80
+"Fnac","Non-responsabilité hors CGU","Pas de responsabilité pour utilisation des produits hors du cadre des CGU. FNAC n'a pas vocation à vendre à des professionnels : absence de responsabilité pour les préjudices résultant d'une activité professionnelle liée aux produits achetés.","Clauses limitatives de responsabilité","Bad","http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",70
+"Fnac","Utilisateur sujet à poursuites","Risque de poursuite de l'utilisateur pour utilisation non conforme aux CGU ","Poursuites possibles","Bad","http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",60
+"Fnac","Utilisation large des données-utilisateurs par les tiers","Données personnelles peuvent être transmises à des sociétés partenaires non identifiées. Les données sont conservées par les prestataires tiers même en cas de suppression du compte FNAC.","Relations avec les tiers","Bad","http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",60
+"Fnac","Licences d'utilisation restrictives","Contenou sous droit d'auteur réservé à un usage privé sous réserves de dispositions plus restrictives. Logiciels soumis à des droits d'utilisations spécifiques. Contenu protégé par des DRM de degrés variables. Pas de rétractation sur l'achat de contenu numérique. Interdiction de revendre, échanger, louer ou transférer le contenu numérique à un tiers.","Droit accordés aux utilisateurs (licences)","Neutral/Bad","http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",40
+"Fnac","Pas de contrôle sur la suppression des données personnelles","Données transmises à des prestataires tiers sont conservées par ceux-ci même en cas de suppression du compte FNAC.","Conditions de résiliation","Bad","http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",50
+"Fnac","Système de cryptage des données","Système de cryptage SS. Procédés de brouillage des données de l'utilisateur. Les données peuvent certes être transférés à des tiers, mais ceux-ci sont établis dans des pays dont la législation est reconnue conforme en matière de protection des données par la Commission européenne (ex : Canada).","Stockage des données (modalités et localisation)","Good","http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",50
+"Fnac","Utilisation extensive de cookies","Désactivables mais les achats et gestion du panier ne sont plus possibles sans (obligation de fait). Utilisation de cookies par les sociétés partenaires, sans contrôle de la FNAC dessus.","Utilisation des cookies","Bad","http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",30
+"Fnac","Absence de notifications","Pas de notification du changement des CGU : ""La société FNAC peut apporter toutes les modifications qu'elle jugera nécessaire ; nous vous invitons à revenir régulièrement pour vous tenir au courant"" ","Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","Bad","http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",40
+"Fnac","Lisibilité et intelligibilité correctes","Articles relativement courts.","Lisibilité et intelligibilité des CGU","Good","http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",20
+"Fnac","Domiciliation en France","Les fichiers de livres numériques ne sont vendus qu'aux clients sur le territoire français, le client déclare donc être domicilié en France.","Engagements de la part des utilisateurs","Neutral","http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot",20
+"Fnac",,,"Autres informations",,,
+"Service","Titre","TL;DR","Sujet","Good/bad/neutral/blocker","Source (Titre : URL)","Score : 0 à 100 (pondération)"
+"Google","La juridiction californienne compétente","les éventuels litiges liés aux présentes Conditions d’Utilisation seront régis par les lois des États à l’exclusion des règles de conflit de lois de cet État.Si la justice de votre pays ne vous autorise pas à vous pourvoir devant les tribunaux du comté de Santa Clara, Californie, États-Unis, les litiges relevant des présentes seront portés devant les tribunaux compétents de votre lieu de résidence.","Juridiction compétente","bad","https://www.google.fr/intl/fr/policies/terms/regional.html",50
+"Google",,,"Clauses limitatives de responsabilité",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google",,,"Poursuites possibles",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google","Importante collection de données (IP) et communication relative","-        Collection de données directement par l’utilisateur et indirectement par son utilisation (ex : site web utilisant leurs services publicitaires)
+o        Enregistrement de l’adresse IP, les requêtes de recherche…
+        Pour choix du langage proposé et publicité ciblées
+
+-        Communiquent les données personnelles à des entreprises, des organisations ou des personnes tierces que dans les circonstances suivantes :
+o        Demande de consentement
+o        Avec des administrateurs de domaine
+o        Pour des besoins de traitement externe
+o        Pour des raisons juridiques","Relations avec les tiers","blocker","https://www.google.fr/intl/fr/policies/terms/regional.html",90
+"Google",,,"Droit accordés aux utilisateurs (licences)",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google",,,"Conditions de résiliation",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google",,,"Stockage des données (modalités et localisation)",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google",,,"Utilisation des cookies",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google","Pas de communication","--        Pas de communication des changements des CGU autre part que sur leur page (seul l’arrêt d’utilisation signifie refus)","Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","bad","https://www.google.fr/intl/fr/policies/terms/regional.html",70
+"Google","Moyenne",,"Lisibilité et intelligibilité des CGU","neutral","https://www.google.fr/intl/fr/policies/terms/regional.html",20
+"Google",,,"Engagements de la part des utilisateurs",,"https://www.google.fr/intl/fr/policies/terms/regional.html",
+"Google",,,"Autres informations",,,
+"Service","Titre","TL;DR","Sujet","Good/bad/neutral/blocker","Source (Titre : URL)","Score : 0 à 100 (pondération)"
+"Google Play","Juridiction américaine","Résolution du litige devant le tribunal de Santa Clara, CA, sauf en cas de disposition impérative du droit du pays de résidence auquel cas ce droit s'applique","Juridiction compétente","Bad","https://play.google.com/intl/fr_fr/about/play-terms.html",70
+"Google Play","Responsabilité limitée en cas de contenu défectueux","Si le contenu est défectueux, Google rembourse à hauteur du prix d'achat. Pas de limitation de responsabilité pour aucune des parties en cas de litiges liés à un décès/dommage corporel, fraude, fausse déclaration intentionnelle.","Clauses limitatives de responsabilité","Neutral","https://play.google.com/intl/fr_fr/about/play-terms.html",50
+"Google Play","Sanctions pénales ou civiles","Sanctions pénales ou civiles possibles en cas de violation ou de tentative de violation d'un dispositif de sécurité (ex : DRM)","Poursuites possibles","Neutral","https://play.google.com/intl/fr_fr/about/play-terms.html",50
+"Google Play","Transmission de données aux commerçants impliqués dans la vente","Données transmises voire contrat conclu avec des tiers à l'occasion de vente dans lesquelles ces tiers sont vendeurs/fournisseurs (ex : magazine, fournisseur du contenu numérique).","Relations avec les tiers","Neutral","https://play.google.com/intl/fr_fr/about/play-terms.html",40
+"Google Play","Licence très restrictive","Droit de jouissance non exclusif tant que Google possède les droits sur le contenu. Interdit de vendre, louer, redistribuer, transmettre, céder, etc, le contenu. Possible suppression du contenu si Google cède les droits, sans assurance de préavis raisonnable. Comptabilisation du nombre d'appareils utilisant le contenu. Modification possible du contenu à tout moment.","Droit accordés aux utilisateurs (licences)","Blocker","https://play.google.com/intl/fr_fr/about/play-terms.html",90
+"Google Play","Incertitude concernant la suppression des données","""Vous avez la possibilité de consulter et de supprimer les informations stockées (sauf si nous sommes tenus de les conserver, par obligation légale ou à des fins commerciales légitimes et restreintes, notamment dans le cadre de recherches liées à la fraude)""","Conditions de résiliation","Bad","https://play.google.com/intl/fr_fr/about/play-terms.html",70
+"Google Play",,,"Stockage des données (modalités et localisation)",,"https://play.google.com/intl/fr_fr/about/play-terms.html",
+"Google Play","Utilisation extensive des cookies","Lors de la consultation d'un livre numérique sur Google Play, Google enregistre, à l'aide de cookies, la requête ou demande de page, l'adresse IP, type et langue du navigateur, date et heure de la requête, 5 dernières pages lues.","Utilisation des cookies","Bad","https://play.google.com/intl/fr_fr/about/play-terms.html",60
+"Google Play","Validation par l'utilisateur des nouvelles CGU","Si les conditions changent, il nous sera demandé d'accepter les nouvelles conditions préalablement au prochain achat d'un contenu","Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","Good","https://play.google.com/intl/fr_fr/about/play-terms.html",80
+"Google Play","Interconnexion de nombreuses CGU","L'acceptation aux conditions de Google Play implique l'acceptation automatique des CGU de Google et des différents services Google interconnectés : difficile de prendre connaissance de toutes les conditions","Lisibilité et intelligibilité des CGU","Bad","https://play.google.com/intl/fr_fr/about/play-terms.html",70
+"Google Play",,,"Engagements de la part des utilisateurs",,"https://play.google.com/intl/fr_fr/about/play-terms.html",
+"Google Play",,,"Autres informations",,"https://play.google.com/intl/fr_fr/about/play-terms.html",
+"Service","Titre","TL;DR","Sujet","Good/bad/neutral/blocker","Source (Titre : URL)","Score : 0 à 100 (pondération)"
+"Instagram","Juridiction californienne coûte que coûte","1. Les conditions d'utilisation sont régies et interprétées conformément aux lois de l'Etat de Californie 
+
+2. Elles ne donnent pas effet aux principes de conflit de loi et de conflit de juridiction, et se dégagent de l'autorité des convention des Nations Unies relatives au commerce international des marchandises - si jamais elles se révélaient applicables 
+
+3. Si une disposition devait être jugée illicite, elle sera considérée comme détachable de l'ensemble des conditions","Juridiction compétente","bad","http://instagram.com/about/legal/terms/",50
+"Instagram","100$ de clause limitative de responsabilité","1. Clause limitative de responsabilité. En aucun cas, l'indemnité due par Instagram ne pourra dépasser 100 dollars","Clauses limitatives de responsabilité","bad","http://instagram.com/about/legal/terms/",50
+"Instagram","supra-protection d'instragram au détriment des utilisateurs","1. L'action en justice est considérée comme prescrite à compter d'un an après le fait générateur du litige.
+
+2. L'utilisateur s'oblige à recourir au tribunal arbitral avant d'engager une procédure devant un tribunal d'Etat.
+
+3. L'utilisateur renonce au droit de class-action.","Poursuites possibles","blocker","http://instagram.com/about/legal/terms/",80
+"Instagram",,,"Relations avec les tiers",,"http://instagram.com/about/legal/terms/",
+"Instagram","licence non-exclusive","1. Licence non-exclusive","Droit accordés aux utilisateurs (licences)","bad","http://instagram.com/about/legal/terms/",90
+"Instagram","tous les matériaux en ligne peuvent être conservés par instagram","1. Les matériaux mis en ligne peuvent subsister à la fermeture du compte, que celle-ci soit volontaire ou imposée.
+
+2. Tout contenu placé sur le site ou retiré par les services de gestion peut continuer à être stocké, même sans limitation.","Conditions de résiliation","blocker","http://instagram.com/about/legal/terms/",90
+"Instagram",,,"Stockage des données (modalités et localisation)",,"http://instagram.com/about/legal/terms/",
+"Instagram",,,"Utilisation des cookies",,"http://instagram.com/about/legal/terms/",
+"Instagram","Faible communication des CGU aux changements rétroactifs","1. La modification des CGU n'est pas soumise à l'approbation de l'utilisateur
+
+2. Il est prévu qu'en cas de modification importante, l'utilisateur en soit informé par un message apparaissant sur la page d'accueil du site. Cette notification n'est pas une obligation.
+
+3. L'utilisation du service après la date de mise à jour des conditions vaut acceptation.
+
+4. Les nouvelles CGU sont rétroactives : elles s'appliquent aux litiges nés antérieurement à leur publication.
+
+5. La modification des CGU ""for legal or administrative reasons"" n'est soumise à aucune procédure de publication et de notification à l'utilisateur","Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","neutral","http://instagram.com/about/legal/terms/",30
+"Instagram","pas de CGU en français","1. Les CGU ne sont pas disponibles en français
+
+2. Elles sont assez lisibles en anglais. Il n'y a aucun renvoi. Néanmoins, certains passages - notamment celui sur la modification des CGU - sont confus.","Lisibilité et intelligibilité des CGU","bad","http://instagram.com/about/legal/terms/",50
+"Instagram",,,"Engagements de la part des utilisateurs",,"http://instagram.com/about/legal/terms/",
+"Instagram",,,"Autres informations",,"http://instagram.com/about/legal/terms/",
+"Service","Titre","TL;DR","Sujet","Good/bad/neutral/blocker","Source (Titre : URL)","Score : 0 à 100 (pondération)"
+"Soundcloud","Deutsche Qualität","Juridiction exclusive compétente des tribunaux de Berlin (Allemagne). Exclusion des principes de conflit de lois de droit international privé et de la Convention des NU sur les CISG.","Juridiction compétente","neutral","https://soundcloud.com/terms-of-use",50
+"Soundcloud","Pas de responsabilité de Soundcloud","Pas de responsabilité pour les pertes ou dommages causés suite à: 1. l'impossibilité d'accès  au service partielle ou totale, 2. une action intentée contre l'utilisateur par un tiers concernant l'utilisation du service, 3.  un problème causé par le service à l'ordinateur (harware, software, data) de l'utilisateur, 4. une violation de Soundcloud de ses propres CGU","Clauses limitatives de responsabilité","bad","https://soundcloud.com/terms-of-use",50
+"Soundcloud",,,"Poursuites possibles",,"https://soundcloud.com/terms-of-use",
+"Soundcloud","Pas de communication des informations mais usage interne","Pas de partage d'informations personnelles aux tiers (principe) sauf cookies et: 
+1. informations publiées sur le compte et accessible par les autres utilisateurs (sauf e-mail).
+2. partage de certaines informations à des partenaires dans le but exclusif de fournir un service à SC (utilisation non-commerciale).
+3. partage des infos et contenus publiées sur SC à d'autres applications ou réseaux sociaux (Facebook, Twitter..) si connexion du compte SC par l'utilisateur avec ces derniers.
+4. SC se réserve le droit de confier les informations publiées à la justice si celle-ci les réclame.
+5. en cas de rachat des actifs de SC les infos de l'utilisateurs sont vendus comme actif de l'entreprise.","Relations avec les tiers","good","https://soundcloud.com/terms-of-use",50
+"Soundcloud","Délivrance d'une licence par la publication","La publication d'un contenu audio sur la plateforme entraîne la délivrance à SC et aux autres utilisateurs d'une licence limitée, mondiale, non-exclusive et gratuite pour l'utilisation, la transmission, la copie, la distribution, l'affichage et la performance public des contenus.","Droit accordés aux utilisateurs (licences)","neutral","https://soundcloud.com/terms-of-use",50
+"Soundcloud","Old school: Résiliation par courrier postal","Résiliation conditionnée à l'envoi d'un courrier postal le notifiant à SC (suppression du compte et de tous ses contenus). SC se réserve aussi ce droit en cas de violation répétée des CGU. Droit d'annulation de la création du compte par l'utilisateur issu de l'UE dans les 14 jours suivant la création du compte et via courrier postal.","Conditions de résiliation","bad","https://soundcloud.com/terms-of-use",65
+"Soundcloud",,,"Stockage des données (modalités et localisation)",,"https://soundcloud.com/terms-of-use",
+"Soundcloud","Cookies désactivables ou blocables","Utilisation des cookies. Cookies désactivables ou bloquables.","Utilisation des cookies","neutral","https://soundcloud.com/terms-of-use",30
+"Soundcloud","Notification 6 semaines avant les modifications","En cas de modification des CGU, responsabilité de l'utilisateur de consulter la page. Mais SC envoi une notification sur le compte et un courriel sur l'adresse mail de l'utilisateur 6 semaines avant que la modification devienne effective. La non résiliation après le délai de 6 semaines vaut acceptation de la modification par l'utilisateur.","Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","good","https://soundcloud.com/terms-of-use",30
+"Soundcloud","En anglais, seulement","Texte disponible en anglais uniquement. Clair et intelligible. Peu de renvois.","Lisibilité et intelligibilité des CGU","bad","https://soundcloud.com/terms-of-use",30
+"Soundcloud","Nombreux engagements de l'utilisateurs à la bonne utilisation des services de SoundCloud","Engagements ""notables""  de l'utilisateur via l'acceptation des CGU à ne pas:
+1. copier, télécharger, publier, jouer, exploiter ou communiquer au public un contenu audio d'un autre utilisateur publié sur le service.
+2. produire un contenu offensant, abusif, diffamant, raciste, indécent, faisant l'éloge du terrorisme, de la violence ou à caractère sexuel.
+3. commettre, encourager, promouvoir aucune sorte d'infractions.
+4. ...","Engagements de la part des utilisateurs","neutral","https://soundcloud.com/terms-of-use",40
+"Soundcloud",,,"Autres informations",,"https://soundcloud.com/terms-of-use",
+"Service","Titre","TL;DR","Sujet","Good/bad/neutral/blocker","Source (Titre : URL)","Score : 0 à 100 (pondération)"
+"SugarSync","La Californie!","Juridiction exclusivement compétente des tribunaux du Comté de Santa Clara, Californie
+
+Application du droit de l'Etat de Californie","Juridiction compétente","bad","https://www.sugarsync.com/terms.html",50
+"SugarSync","Clause limitative de responsabilité maximale","Clause limitative de responsabilité maximale selon la loi applicable et sous reserve que la législation de la l'utilisateur le permette.","Clauses limitatives de responsabilité","bad","https://www.sugarsync.com/terms.html",70
+"SugarSync",,,"Poursuites possibles",,"https://www.sugarsync.com/terms.html",
+"SugarSync","Pas de communication sans accord","Respect de la discrétion et de la confidentialité. Le contenu de l'utilisateur ne sera livré à un tiers que si l'utilisateur en fait la demande ou en cas d'injonction d'une juridiction compétente.","Relations avec les tiers","good","https://www.sugarsync.com/terms.html",70
+"SugarSync","Licence d'utilisation non exclusive et non transférable","Licence d'utilisation non exclusive et non transférable","Droit accordés aux utilisateurs (licences)","neutral","https://www.sugarsync.com/terms.html",40
+"SugarSync",,,"Conditions de résiliation",,"https://www.sugarsync.com/terms.html",
+"SugarSync",,,"Stockage des données (modalités et localisation)",,"https://www.sugarsync.com/terms.html",
+"SugarSync",,,"Utilisation des cookies",,"https://www.sugarsync.com/terms.html",
+"SugarSync",,,"Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs",,"https://www.sugarsync.com/terms.html",
+"SugarSync","English only","Texte disponible en anglais uniquement mais clair.","Lisibilité et intelligibilité des CGU","bad","https://www.sugarsync.com/terms.html",30
+"SugarSync",,,"Engagements de la part des utilisateurs",,"https://www.sugarsync.com/terms.html",
+"SugarSync",,,"Autres informations",,"https://www.sugarsync.com/terms.html",
+"Service","Titre","TL;DR","Sujet","Good/bad/neutral/blocker","Source (Titre : URL)","Score : 0 à 100 (pondération)"
+"Twitter","Juridiction californienne","les Conditions et toute action judiciaire engagée en relation avec ces Conditions sont régies par les lois de l'État de Californie des Etats-Unis d'Amérique sans considération et sans faire application des dispositions légales de votre Etat ou de votre pays de résidence relatives aux conflits de lois","Juridiction compétente","bad","https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1843",50
+"Twitter","100$ de clause limitative de responsabilité","-        Clause limitative de responsabilité (100$, autant que la législation le permet)","Clauses limitatives de responsabilité","bad","https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1844",50
+"Twitter",,,"Poursuites possibles",,"https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1845",
+"Twitter","Commerce de toute donnée non privée","- Commerce de données non privées ou non personnelles","Relations avec les tiers","bad","https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1846",90
+"Twitter","Une licence accordée à twitter des contenus publiés","-        L’utilisateur garde ses droits… mais accorde à twitter une licence mondiale, non-exclusive et gratuite sur les contenus publiés","Droit accordés aux utilisateurs (licences)","bad","https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1847",90
+"Twitter","Aucune résiliation possible","-        Possible désactivation du compte mais pas de résiliation (seulement si décidée par Twitter)","Conditions de résiliation","blocker","https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1848",90
+"Twitter",,,"Stockage des données (modalités et localisation)",,"https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1849",
+"Twitter",,"-        Utilisation de cookies","Utilisation des cookies","neutral","https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1850",60
+"Twitter","qui ne dit mot consent, pas sans être prévenu","-        Modification : -        CGU susceptible de changer sans préavis + ""Si nous faisons une modification à cette politique qui , à notre seule discrétion, est substantielle, nous vous le notifierons via une mise à jour @Twitter ou un courrier électronique à l'adresse associée avec votre compte. En continuant d'accéder ou en utilisant les Services après que ces changements soient entrés en vigueur, vous manifestez vous accord à être lié par la Politique de Vie Privée amendée.""","Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","bad","https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1851",40
+"Twitter","lisible","plutôt bonnes et claires (assez simples) - traduite en Français mais la version anglaise reste la référence)","Lisibilité et intelligibilité des CGU","good","https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1852",20
+"Twitter","Parle qui veut!","-        Pas d’interdiction claire de propos injurieux ou racistes.","Engagements de la part des utilisateurs","bad","https://twitter.com/tos?PHPSESSID=57a411f70b1964a2bc78b82638ba1853",40
+"Twitter",,,"Autres informations",,,
+"Service","Titre","TL;DR","Sujet","Good/bad/neutral/blocker","Source (Titre : URL)","Score : 0 à 100 (pondération)"
+"Youtube","Juridiction française","Compétence exclusive des tribunaux français. Compétence des juridictions de tous pays pour des mesures conservatoires, d'injonction ou d'urgence.","Juridiction compétente","Good","https://www.youtube.com/t/terms",70
+"Youtube","Utilisateur seul responsable de son contenu et comportement en ligne","YT pas responsable de l'activité de l'utilisateur, du non respect aux CGU, et du contenu","Clauses limitatives de responsabilité","Neutral","https://www.youtube.com/t/terms",60
+"Youtube","Mesures conservatoires et coopération avec les autorités","Mesures conservatoires peuvent être prises à l'encontre de l'utilisateur. YT peut signaler à toute force de l'ordre l'exploitation sexuelle d'enfants pour amener des poursuites.
+","Poursuites possibles","Neutral","https://www.youtube.com/t/terms",60
+"Youtube","Application des CGU de Google en la matière","Les dispositions des CGU de Google qui permettent un usage extensif des données utilisateurs par des tiers partenaires commerciaux trouvent à s'appliquer","Relations avec les tiers","Bad","https://www.youtube.com/t/terms",70
+"Youtube","Licence large accordée à YT sur le contenu","YT peut supprimer tout contenu contrevenant de façon discrétionnaire. En uploadant, l'utilsateur cède des droits extrêmement larges sur son contenu. Licence accordée cesse lorsque le contenu est retiré.","Droit accordés aux utilisateurs (licences)","Blocker","https://www.youtube.com/t/terms",90
+"Youtube","Résiliation bilatérale","Utilisateur peut supprimer son compte à tout moment. YT peut résilier le compte utilisateur pour diverses raisons (judiciaires, géographiques, contractuelles). Certaines clauses des CGU peuvent continuer à s'appliquer après la suppression du compte.","Conditions de résiliation","Bad","https://www.youtube.com/t/terms",60
+"Youtube","Stockage de données très nombreuses sur des serveurs dans divers pays","Collecte des données sur le type d'appareil, sur l'activité de l'utilisateur, sa localisation, s'en servent pour actualiser les autres profils google, stockent les données dans de nombreux serveurs à travers le monde, et pour un temps indéfini.","Stockage des données (modalités et localisation)","Bad","https://www.youtube.com/t/terms",60
+"Youtube","Utilisation contrainte des cookies","Possibilité d'en désactiver certains, mais le service est susceptible de ne plus fonctionner.","Utilisation des cookies","Neutral","https://www.youtube.com/t/terms",40
+"Youtube","Utilisation vaut acceptation tacite","L'utilisation vaut acceptation tacite. Pas de notification lors de la modification des CGU.","Modalités de modification des CGU, de communication, d'acceptation par les utilisateurs","Bad","https://www.youtube.com/t/terms",60
+"Youtube","Interconnexion de nombreuses CGU","Langage explicite, mais renvoi à de nombreuses autres CGU","Lisibilité et intelligibilité des CGU","Bad","https://www.youtube.com/t/terms",60
+"Youtube","Interdiction de disposer du contenu","Interdiction d'utiliser le contenu à des fins commerciales, de le copier, reproduire, transmettre, diffuser, etc., sans l'accord de YT et des ayant-droits. ","Engagements de la part des utilisateurs","Neutral","https://www.youtube.com/t/terms",50
+"Youtube","Procédure de retrait de contenu litigieux","Si demande de suppression pour atteinte au droit d'auteur d'un contenu par un utilisateur est complète et légitime, suppression de la vidéo et avertissement à l'utilisateur. Possibilité de demander à l'ayant droit du contenu litigieux qu'il retire sa revendication pour atteinte aux droits d'auteur. Possibilité de réhabilitation de la vidéo si elle est supprimée à tort.","Autres informations","Good","https://www.youtube.com/t/terms",80
