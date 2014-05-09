@@ -1,2 +1,2 @@
 
-{ "id":"fnacpoursui","service":"Fnac","title":"Utilisateur sujet à poursuites","tosdr":{"tldr":"Risque de poursuite de l'utilisateur pour utilisation non conforme aux CGU ","topics":"Poursuites possibles","point":"Bad","sources":"http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot","score":60}}
+{ "id":"fnacpoursui","service":"Fnac","title":"Utilisateur sujet à poursuites","tosdr":{"tldr":"Risque de poursuite de l'utilisateur pour utilisation non conforme aux CGU ","topics":"Poursuites possibles","point":"bad","sources":"http://www4.fnac.com/Help/fnaccom-cgv.aspx#bl=foot","score":60}}
