@@ -7,8 +7,22 @@
         "dailysanct1",
         "dailyanon1",
         "dailylicense1",
+        "dailyresil1",
+        "dailystock1",
+        "dailycook1",
+        "dailyaccept1",
+        "dailylong1",
+        "dailyinterdi1",
+        "dailyretrait1",
         "dailyjuri1"
     ]
+  },
+  "deezer": {
+      "class":false,
+      "links": {},
+      "points": [
+        "deezcourt1", "deezdroit1", "deezlicens1", "deezperso1", "deezresil1", "deezresp1"
+        ]
   },
   "linkedin": {
     "class": false,
